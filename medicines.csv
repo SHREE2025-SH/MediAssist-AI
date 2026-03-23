@@ -1,0 +1,59 @@
+medicine,uses,side_effects,dosage,interactions,category
+Aspirin,Pain relief fever reduction anti-inflammatory,"Stomach upset, bleeding, nausea","81-325mg daily for heart, 500mg every 4-6 hours for pain","Avoid with blood thinners like Warfarin or NSAIDs like Ibuprofen",Pain Relief
+Paracetamol,Fever pain headache relief,"Liver damage if overdose, nausea","500mg every 4-6 hours, max 4g/day","Avoid with alcohol or other liver-affecting drugs",Pain Relief
+Ibuprofen,Inflammation pain reduction fever,"Stomach issues, kidney problems","200-400mg every 6-8 hours, max 1200mg/day","Avoid with Aspirin or blood pressure meds",Pain Relief
+Naproxen,Arthritis pain inflammation,"Heartburn, dizziness, high blood pressure","220mg every 8-12 hours, max 660mg/day","Avoid with other NSAIDs or steroids",Pain Relief
+Codeine,Cough suppression severe pain,"Drowsiness, constipation, addiction risk","15-60mg every 4-6 hours","Avoid with alcohol or sedatives",Pain Relief
+Tramadol,Severe pain,"Dizziness, nausea, constipation","50-100mg every 4-6 hours, max 400mg/day","Avoid with antidepressants or alcohol",Pain Relief
+Diclofenac,Arthritis inflammation pain,"Stomach ulcers, heart issues","50mg 2-3 times daily","Avoid with other NSAIDs or blood thinners",Pain Relief
+Amoxicillin,Bacterial infections like ear throat,"Diarrhea, nausea, rash","500mg every 8 hours for 7-10 days","Inform if allergic to penicillin",Antibiotic
+Ciprofloxacin,Urinary tract skin infections,"Diarrhea, tendon rupture, nausea","500mg every 12 hours for 7-14 days","Avoid with dairy or antacids",Antibiotic
+Levofloxacin,Respiratory urinary infections,"Tendon issues, dizziness, insomnia","500-750mg once daily for 5-14 days","Avoid with NSAIDs or steroids",Antibiotic
+Doxycycline,Acne bacterial infections,"Photosensitivity, nausea, esophageal irritation","100mg twice daily","Avoid with dairy or antacids",Antibiotic
+Azithromycin,Respiratory ear infections,"Diarrhea, nausea, arrhythmia risk","500mg day 1, then 250mg days 2-5","Avoid with antacids or heart meds",Antibiotic
+Cephalexin,Skin urinary infections,"Diarrhea, rash","500mg every 6 hours for 7-14 days","Avoid if penicillin allergic",Antibiotic
+Clindamycin,Skin bone infections,"Diarrhea, colitis risk","300mg every 6 hours","Avoid with erythromycin",Antibiotic
+Omeprazole,Acid reflux GERD ulcers,"Headache, dizziness, bone fracture risk","20-40mg once daily","May reduce absorption of other meds like iron",Antacid
+Ranitidine,Heartburn acid indigestion,"Headache, dizziness, constipation","150mg twice daily","Avoid with blood thinners",Antacid
+Calcium Carbonate,Heartburn indigestion,"Constipation, bloating","500-1000mg as needed, max 2000mg/day","Avoid with certain antibiotics",Antacid
+Pantoprazole,GERD ulcers,"Headache, diarrhea","40mg once daily","May interact with antiretrovirals",Antacid
+Esomeprazole,Acid reflux,"Nausea, abdominal pain","20-40mg once daily","Avoid with clopidogrel",Antacid
+Metformin,Type 2 diabetes blood sugar control,"Diarrhea, nausea, lactic acidosis risk","500-1000mg twice daily with meals","Avoid with alcohol or kidney issues",Diabetes
+Insulin,Type 1/2 diabetes,"Hypoglycemia, weight gain","Varies by type, consult doctor","Avoid with certain heart meds",Diabetes
+Glipizide,Type 2 diabetes,"Hypoglycemia, nausea, skin rash","5-10mg daily with breakfast","Avoid with alcohol or beta-blockers",Diabetes
+Sitagliptin,Type 2 diabetes,"Headache, upper respiratory infection","100mg once daily","Avoid with insulin if hypoglycemia risk",Diabetes
+Empagliflozin,Type 2 diabetes heart failure,"Urinary infections, dehydration","10-25mg once daily","Avoid with diuretics",Diabetes
+Atenolol,High blood pressure angina,"Fatigue, dizziness, cold hands","25-100mg once daily","Avoid with calcium channel blockers",Blood Pressure
+Amlodipine,High blood pressure chest pain,"Swelling, headache, flushing","5-10mg once daily","Avoid with grapefruit or simvastatin",Blood Pressure
+Lisinopril,High blood pressure heart failure,"Cough, dizziness, hyperkalemia","10-40mg once daily","Avoid with NSAIDs or potassium supplements",Blood Pressure
+Losartan,High blood pressure kidney protection,"Dizziness, hyperkalemia","50-100mg once daily","Avoid with potassium supplements",Blood Pressure
+Hydrochlorothiazide,High blood pressure edema,"Dehydration, low potassium","12.5-50mg once daily","Avoid with lithium or NSAIDs",Blood Pressure
+Metoprolol,High blood pressure angina,"Fatigue, depression","25-100mg twice daily","Avoid with calcium blockers",Blood Pressure
+Enalapril,High blood pressure heart failure,"Cough, angioedema","5-40mg daily","Avoid with potassium supplements",Blood Pressure
+Dextromethorphan,Cough suppression,"Drowsiness, dizziness","30mg every 6-8 hours","Avoid with MAOIs or SSRIs",Common Cold/Cough
+Guaifenesin,Mucus thinning expectorant,"Nausea, stomach upset","400-600mg every 4 hours","Avoid with certain cough suppressants",Common Cold/Cough
+Pseudoephedrine,Nasal decongestant,"Insomnia, high blood pressure","60mg every 4-6 hours, max 240mg/day","Avoid with MAOIs or high BP meds",Common Cold/Cough
+Chlorpheniramine,Allergy cold symptoms,"Drowsiness, dry mouth","4mg every 4-6 hours","Avoid with alcohol or sedatives",Common Cold/Cough
+Brompheniramine,Cold allergy symptoms,"Drowsiness, dizziness","4mg every 4-6 hours","Avoid with MAOIs",Common Cold/Cough
+Phenylephrine,Nasal decongestant,"High blood pressure, headache","10mg every 4 hours","Avoid with MAOIs",Common Cold/Cough
+Lozenges,Sore throat relief,"Mouth irritation","1 lozenge every 2-3 hours","Avoid if allergic to menthol",Common Cold/Cough
+Loratadine,Allergies hay fever,"Headache, dry mouth","10mg once daily","Avoid with certain antifungals",Allergies
+Cetirizine,Allergies hives,"Drowsiness, fatigue","10mg once daily","Avoid with alcohol",Allergies
+Fexofenadine,Allergies hay fever,"Headache, nausea","180mg once daily","Avoid with fruit juices",Allergies
+Diphenhydramine,Allergies motion sickness,"Drowsiness, dry mouth","25-50mg every 4-6 hours","Avoid with alcohol or sedatives",Allergies
+Epinephrine,Severe allergies anaphylaxis,"Heart palpitations, anxiety","0.3mg auto-injector as needed","Avoid with heart conditions",Allergies
+Montelukast,Allergies asthma,"Headache, behavioral changes","10mg once daily","Avoid with phenobarbital",Allergies
+Vitamin C,Immune support antioxidant,"Slight nausea if high dose","500-1000mg daily","Avoid with certain chemotherapies",Others
+Zinc,Immune boost wound healing,"Nausea, metallic taste","15-30mg daily","Avoid with antibiotics",Others
+Probiotics,Gut health digestion,"Bloating, gas","1-10 billion CFU daily","Avoid with immunosuppressants",Others
+Melatonin,Sleep aid,"Daytime drowsiness, headache","1-5mg before bed","Avoid with blood thinners",Others
+Caffeine,Energy alertness,"Insomnia, jitters","100-200mg per dose","Avoid with stimulants",Others
+Echinacea,Immune support cold prevention,"Nausea, rash","300-500mg 3x daily","Avoid with immunosuppressants",Others
+Ginger,Nausea digestion,"Heartburn, gas","1-2g daily","Avoid with blood thinners",Others
+Turmeric,Anti-inflammatory antioxidant,"Stomach upset","500-2000mg daily","Avoid with blood thinners",Others
+Fish Oil,Heart health omega-3,"Fishy aftertaste, bleeding risk","1000-2000mg daily","Avoid with blood thinners",Others
+Multivitamin,Daily nutrient support,"Varies, minimal","1 tablet daily","Avoid with certain meds like antibiotics",Others
+Iron Supplement,Anemia iron deficiency,"Constipation, nausea","18-65mg daily","Avoid with antacids or calcium",Others
+Calcium,Bone health,"Constipation, kidney stones","1000-1200mg daily","Avoid with certain antibiotics",Others
+Atorvastatin,High cholesterol,"Muscle pain, liver issues","10-80mg once daily","Avoid with grapefruit",Others
+Sertraline,Depression anxiety,"Nausea, insomnia","50-200mg daily","Avoid with MAOIs, alcohol, other SSRIs",Mental Health
